@@ -1,0 +1,1541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Palette3/ColorCutQuantizer.swift"
+            timestampString = "456642663.808034"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "init(fromImage:maxColors:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3Tests.ColorCutQuantizer.init (Palette3Tests.ColorCutQuantizer.Type)(fromImage : ObjectiveC.UIImage, maxColors : Swift.Int) -&gt; Palette3Tests.ColorCutQuantizer"
+                  moduleName = "Palette3Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456549052.215432"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "271">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3.ColorCutQuantizer.init (Palette3.ColorCutQuantizer.Type)(fromImage : ObjectiveC.UIImage, maxColors : Swift.Int) -&gt; Palette3.ColorCutQuantizer"
+                  moduleName = "Palette3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456549052.215609"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "271">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Palette3/Palette.swift"
+            timestampString = "456648304.595366"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "168"
+            endingLineNumber = "168"
+            landmarkName = "init(swatches:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3Tests.Palette.init (Palette3Tests.Palette.Type)(swatches : Swift.Array&lt;Palette3Tests.Swatch&gt;) -&gt; Palette3Tests.Palette"
+                  moduleName = "Palette3Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/Palette.swift"
+                  timestampString = "456557336.246026"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "123">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3.Palette.init (Palette3.Palette.Type)(swatches : Swift.Array&lt;Palette3.Swatch&gt;) -&gt; Palette3.Palette"
+                  moduleName = "Palette3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/Palette.swift"
+                  timestampString = "456557336.246729"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "123">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Palette3/ColorHistogram.swift"
+            timestampString = "456628415.749544"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "init(pixels:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3Tests.ColorHistogram.init (Palette3Tests.ColorHistogram.Type)(pixels : Swift.Array&lt;Swift.UInt32&gt;) -&gt; Palette3Tests.ColorHistogram"
+                  moduleName = "Palette3Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorHistogram.swift"
+                  timestampString = "456557336.246201"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3.ColorHistogram.init (Palette3.ColorHistogram.Type)(pixels : Swift.Array&lt;Swift.UInt32&gt;) -&gt; Palette3.ColorHistogram"
+                  moduleName = "Palette3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorHistogram.swift"
+                  timestampString = "456557336.246906"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "109">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Palette3/ColorCutQuantizer.swift"
+            timestampString = "456642663.808034"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "init(colorHistogram:maxColors:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3Tests.ColorCutQuantizer.init (Palette3Tests.ColorCutQuantizer.Type)(colorHistogram : Palette3Tests.ColorHistogram, maxColors : Swift.Int) -&gt; Palette3Tests.ColorCutQuantizer"
+                  moduleName = "Palette3Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456620259.738983"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3.ColorCutQuantizer.init (Palette3.ColorCutQuantizer.Type)(colorHistogram : Palette3.ColorHistogram, maxColors : Swift.Int) -&gt; Palette3.ColorCutQuantizer"
+                  moduleName = "Palette3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456620259.739381"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Palette3/ColorCutQuantizer.swift"
+            timestampString = "456642663.808034"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "init(colorHistogram:maxColors:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3Tests.ColorCutQuantizer.init (Palette3Tests.ColorCutQuantizer.Type)(colorHistogram : Palette3Tests.ColorHistogram, maxColors : Swift.Int) -&gt; Palette3Tests.ColorCutQuantizer"
+                  moduleName = "Palette3Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456620315.150852"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "1059">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3.ColorCutQuantizer.init (Palette3.ColorCutQuantizer.Type)(colorHistogram : Palette3.ColorHistogram, maxColors : Swift.Int) -&gt; Palette3.ColorCutQuantizer"
+                  moduleName = "Palette3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456620315.15104"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "1059">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Palette3/Palette.swift"
+            timestampString = "456648304.595366"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "getPixelData(atX:andY:count:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ext.Palette3Tests.ObjectiveC.UIImage.getPixelData (ObjectiveC.UIImage)(atX : Swift.Int, andY : Swift.Int, count : Swift.Int) -&gt; Swift.Array&lt;Swift.UInt32&gt;"
+                  moduleName = "Palette3Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/Palette.swift"
+                  timestampString = "456556415.893038"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1632">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ext.Palette3.ObjectiveC.UIImage.getPixelData (ObjectiveC.UIImage)(atX : Swift.Int, andY : Swift.Int, count : Swift.Int) -&gt; Swift.Array&lt;Swift.UInt32&gt;"
+                  moduleName = "Palette3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/Palette.swift"
+                  timestampString = "456556415.893629"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1632">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Palette3/ColorCutQuantizer.swift"
+            timestampString = "456642663.808034"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "init(colorHistogram:maxColors:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3Tests.ColorCutQuantizer.init (Palette3Tests.ColorCutQuantizer.Type)(colorHistogram : Palette3Tests.ColorHistogram, maxColors : Swift.Int) -&gt; Palette3Tests.ColorCutQuantizer"
+                  moduleName = "Palette3Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456557026.650602"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "1290">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3.ColorCutQuantizer.init (Palette3.ColorCutQuantizer.Type)(colorHistogram : Palette3.ColorHistogram, maxColors : Swift.Int) -&gt; Palette3.ColorCutQuantizer"
+                  moduleName = "Palette3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456557026.654229"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "1290">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Palette3/ColorHistogram.swift"
+            timestampString = "456645526.803613"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "countFrequencies(_:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3Tests.ColorHistogram.(countFrequencies in _4266C2E600F8C387AB691F925A624497) (Palette3Tests.ColorHistogram)(Swift.Array&lt;Swift.UInt32&gt;) -&gt; ()"
+                  moduleName = "Palette3Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorHistogram.swift"
+                  timestampString = "456557336.246368"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "1248">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3.ColorHistogram.(countFrequencies in _B8B0D1A31CB879F730630B050250F76A) (Palette3.ColorHistogram)(Swift.Array&lt;Swift.UInt32&gt;) -&gt; ()"
+                  moduleName = "Palette3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorHistogram.swift"
+                  timestampString = "456557336.247032"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "1248">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Palette3/ColorHistogram.swift"
+            timestampString = "456628415.749544"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "init(pixels:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3Tests.ColorHistogram.init (Palette3Tests.ColorHistogram.Type)(pixels : Swift.Array&lt;Swift.UInt32&gt;) -&gt; Palette3Tests.ColorHistogram"
+                  moduleName = "Palette3Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorHistogram.swift"
+                  timestampString = "456556923.40659"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "110">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3Tests.ColorHistogram.(init (Palette3Tests.ColorHistogram.Type) -&gt; (pixels : Swift.Array&lt;Swift.UInt32&gt;) -&gt; Palette3Tests.ColorHistogram).(closure #1)"
+                  moduleName = "Palette3Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorHistogram.swift"
+                  timestampString = "456556923.406783"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "10">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3.ColorHistogram.init (Palette3.ColorHistogram.Type)(pixels : Swift.Array&lt;Swift.UInt32&gt;) -&gt; Palette3.ColorHistogram"
+                  moduleName = "Palette3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorHistogram.swift"
+                  timestampString = "456556923.407685"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "110">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3.ColorHistogram.(init (Palette3.ColorHistogram.Type) -&gt; (pixels : Swift.Array&lt;Swift.UInt32&gt;) -&gt; Palette3.ColorHistogram).(closure #1)"
+                  moduleName = "Palette3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorHistogram.swift"
+                  timestampString = "456556923.407791"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "10">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Palette3/ColorHistogram.swift"
+            timestampString = "456628415.749544"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "init(pixels:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3Tests.ColorHistogram.init (Palette3Tests.ColorHistogram.Type)(pixels : Swift.Array&lt;Swift.UInt32&gt;) -&gt; Palette3Tests.ColorHistogram"
+                  moduleName = "Palette3Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorHistogram.swift"
+                  timestampString = "456556923.40701"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "191">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3.ColorHistogram.init (Palette3.ColorHistogram.Type)(pixels : Swift.Array&lt;Swift.UInt32&gt;) -&gt; Palette3.ColorHistogram"
+                  moduleName = "Palette3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorHistogram.swift"
+                  timestampString = "456556923.407964"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "191">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Palette3/ColorCutQuantizer.swift"
+            timestampString = "456642663.808034"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "init(colorHistogram:maxColors:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3Tests.ColorCutQuantizer.init (Palette3Tests.ColorCutQuantizer.Type)(colorHistogram : Palette3Tests.ColorHistogram, maxColors : Swift.Int) -&gt; Palette3Tests.ColorCutQuantizer"
+                  moduleName = "Palette3Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456560817.109929"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "1392">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3.ColorCutQuantizer.init (Palette3.ColorCutQuantizer.Type)(colorHistogram : Palette3.ColorHistogram, maxColors : Swift.Int) -&gt; Palette3.ColorCutQuantizer"
+                  moduleName = "Palette3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456560817.115058"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "1392">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Palette3/ColorCutQuantizer.swift"
+            timestampString = "456646295.715268"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "395"
+            endingLineNumber = "395"
+            landmarkName = "getAverageColor()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3Tests.(Vbox in _A3B566DBBB76666378EF66E62F085418).getAverageColor (Palette3Tests.(Vbox in _A3B566DBBB76666378EF66E62F085418))() -&gt; Palette3Tests.Swatch"
+                  moduleName = "Palette3Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456561196.371856"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "412"
+                  endingLineNumber = "412"
+                  offsetFromSymbolStart = "47">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3.(Vbox in _3DB8445B69E2AA641DFD1159AA81E7ED).getAverageColor (Palette3.(Vbox in _3DB8445B69E2AA641DFD1159AA81E7ED))() -&gt; Palette3.Swatch"
+                  moduleName = "Palette3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456561196.377082"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "412"
+                  endingLineNumber = "412"
+                  offsetFromSymbolStart = "47">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Palette3/ColorCutQuantizer.swift"
+            timestampString = "456642663.808034"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "146"
+            endingLineNumber = "146"
+            landmarkName = "quantizePixels(_:maxColors:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3Tests.ColorCutQuantizer.(quantizePixels in _A3B566DBBB76666378EF66E62F085418) (Palette3Tests.ColorCutQuantizer)(Swift.Int, maxColors : Swift.Int) -&gt; Swift.Array&lt;Palette3Tests.Swatch&gt;"
+                  moduleName = "Palette3Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456559867.888735"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "141"
+                  endingLineNumber = "141"
+                  offsetFromSymbolStart = "794">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3.ColorCutQuantizer.(quantizePixels in _3DB8445B69E2AA641DFD1159AA81E7ED) (Palette3.ColorCutQuantizer)(Swift.Int, maxColors : Swift.Int) -&gt; Swift.Array&lt;Palette3.Swatch&gt;"
+                  moduleName = "Palette3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456559867.892568"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "141"
+                  endingLineNumber = "141"
+                  offsetFromSymbolStart = "794">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Palette3/ColorCutQuantizer.swift"
+            timestampString = "456642663.808034"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "148"
+            endingLineNumber = "148"
+            landmarkName = "quantizePixels(_:maxColors:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3Tests.ColorCutQuantizer.(quantizePixels in _A3B566DBBB76666378EF66E62F085418) (Palette3Tests.ColorCutQuantizer)(Swift.Int, maxColors : Swift.Int) -&gt; Swift.Array&lt;Palette3Tests.Swatch&gt;"
+                  moduleName = "Palette3Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456560442.417331"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "823">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3.ColorCutQuantizer.(quantizePixels in _3DB8445B69E2AA641DFD1159AA81E7ED) (Palette3.ColorCutQuantizer)(Swift.Int, maxColors : Swift.Int) -&gt; Swift.Array&lt;Palette3.Swatch&gt;"
+                  moduleName = "Palette3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456560442.417684"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "823">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Palette3/ColorCutQuantizer.swift"
+            timestampString = "456645719.792364"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "308"
+            endingLineNumber = "308"
+            landmarkName = "fitBox()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3Tests.(Vbox in _A3B566DBBB76666378EF66E62F085418).fitBox (Palette3Tests.(Vbox in _A3B566DBBB76666378EF66E62F085418))() -&gt; ()"
+                  moduleName = "Palette3Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456560916.396819"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "291"
+                  endingLineNumber = "291"
+                  offsetFromSymbolStart = "1081">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3.(Vbox in _3DB8445B69E2AA641DFD1159AA81E7ED).fitBox (Palette3.(Vbox in _3DB8445B69E2AA641DFD1159AA81E7ED))() -&gt; ()"
+                  moduleName = "Palette3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456560916.396981"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "291"
+                  endingLineNumber = "291"
+                  offsetFromSymbolStart = "1081">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Palette3/ColorCutQuantizer.swift"
+            timestampString = "456646295.715268"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "331"
+            endingLineNumber = "331"
+            landmarkName = "splitBox()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3Tests.(Vbox in _A3B566DBBB76666378EF66E62F085418).splitBox (Palette3Tests.(Vbox in _A3B566DBBB76666378EF66E62F085418))() -&gt; Swift.Optional&lt;Palette3Tests.(Vbox in _A3B566DBBB76666378EF66E62F085418)&gt;"
+                  moduleName = "Palette3Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456561020.751625"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "312"
+                  endingLineNumber = "312"
+                  offsetFromSymbolStart = "1546">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3.(Vbox in _3DB8445B69E2AA641DFD1159AA81E7ED).splitBox (Palette3.(Vbox in _3DB8445B69E2AA641DFD1159AA81E7ED))() -&gt; Swift.Optional&lt;Palette3.(Vbox in _3DB8445B69E2AA641DFD1159AA81E7ED)&gt;"
+                  moduleName = "Palette3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456561020.752093"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "312"
+                  endingLineNumber = "312"
+                  offsetFromSymbolStart = "1546">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Palette3/ColorCutQuantizer.swift"
+            timestampString = "456646295.715268"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "330"
+            endingLineNumber = "330"
+            landmarkName = "splitBox()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3Tests.(Vbox in _A3B566DBBB76666378EF66E62F085418).splitBox (Palette3Tests.(Vbox in _A3B566DBBB76666378EF66E62F085418))() -&gt; Swift.Optional&lt;Palette3Tests.(Vbox in _A3B566DBBB76666378EF66E62F085418)&gt;"
+                  moduleName = "Palette3Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456561041.146048"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "311"
+                  endingLineNumber = "311"
+                  offsetFromSymbolStart = "935">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3.(Vbox in _3DB8445B69E2AA641DFD1159AA81E7ED).splitBox (Palette3.(Vbox in _3DB8445B69E2AA641DFD1159AA81E7ED))() -&gt; Swift.Optional&lt;Palette3.(Vbox in _3DB8445B69E2AA641DFD1159AA81E7ED)&gt;"
+                  moduleName = "Palette3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456561041.146182"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "311"
+                  endingLineNumber = "311"
+                  offsetFromSymbolStart = "935">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Palette3/ColorCutQuantizer.swift"
+            timestampString = "456646295.715268"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "327"
+            endingLineNumber = "327"
+            landmarkName = "splitBox()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3Tests.(Vbox in _A3B566DBBB76666378EF66E62F085418).splitBox (Palette3Tests.(Vbox in _A3B566DBBB76666378EF66E62F085418))() -&gt; Swift.Optional&lt;Palette3Tests.(Vbox in _A3B566DBBB76666378EF66E62F085418)&gt;"
+                  moduleName = "Palette3Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456561046.40844"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "307"
+                  endingLineNumber = "307"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3.(Vbox in _3DB8445B69E2AA641DFD1159AA81E7ED).splitBox (Palette3.(Vbox in _3DB8445B69E2AA641DFD1159AA81E7ED))() -&gt; Swift.Optional&lt;Palette3.(Vbox in _3DB8445B69E2AA641DFD1159AA81E7ED)&gt;"
+                  moduleName = "Palette3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456561046.409013"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "307"
+                  endingLineNumber = "307"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Palette3/ColorCutQuantizer.swift"
+            timestampString = "456645719.792364"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "320"
+            endingLineNumber = "320"
+            landmarkName = "splitBox()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3Tests.(Vbox in _A3B566DBBB76666378EF66E62F085418).splitBox (Palette3Tests.(Vbox in _A3B566DBBB76666378EF66E62F085418))() -&gt; Swift.Optional&lt;Palette3Tests.(Vbox in _A3B566DBBB76666378EF66E62F085418)&gt;"
+                  moduleName = "Palette3Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456561196.372059"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "305"
+                  endingLineNumber = "305"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3.(Vbox in _3DB8445B69E2AA641DFD1159AA81E7ED).splitBox (Palette3.(Vbox in _3DB8445B69E2AA641DFD1159AA81E7ED))() -&gt; Swift.Optional&lt;Palette3.(Vbox in _3DB8445B69E2AA641DFD1159AA81E7ED)&gt;"
+                  moduleName = "Palette3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456561196.377236"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "305"
+                  endingLineNumber = "305"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Palette3/ColorCutQuantizer.swift"
+            timestampString = "456642663.808034"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
+            landmarkName = "quantizePixels(_:maxColors:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3Tests.ColorCutQuantizer.(quantizePixels in _A3B566DBBB76666378EF66E62F085418) (Palette3Tests.ColorCutQuantizer)(Swift.Int, maxColors : Swift.Int) -&gt; Swift.Array&lt;Palette3Tests.Swatch&gt;"
+                  moduleName = "Palette3Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456606333.803218"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "823">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3.ColorCutQuantizer.(quantizePixels in _3DB8445B69E2AA641DFD1159AA81E7ED) (Palette3.ColorCutQuantizer)(Swift.Int, maxColors : Swift.Int) -&gt; Swift.Array&lt;Palette3.Swatch&gt;"
+                  moduleName = "Palette3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456606333.806286"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "823">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Palette3/ColorCutQuantizer.swift"
+            timestampString = "456645719.792364"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "193"
+            endingLineNumber = "193"
+            landmarkName = "generateAverageColors(_:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3Tests.ColorCutQuantizer.(generateAverageColors in _A3B566DBBB76666378EF66E62F085418) (Palette3Tests.ColorCutQuantizer)(Palette3Tests.PriorityQueue&lt;Palette3Tests.(Vbox in _A3B566DBBB76666378EF66E62F085418)&gt;) -&gt; Swift.Array&lt;Palette3Tests.Swatch&gt;"
+                  moduleName = "Palette3Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456606470.176818"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "180"
+                  endingLineNumber = "180"
+                  offsetFromSymbolStart = "199">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3.ColorCutQuantizer.(generateAverageColors in _3DB8445B69E2AA641DFD1159AA81E7ED) (Palette3.ColorCutQuantizer)(Palette3.PriorityQueue&lt;Palette3.(Vbox in _3DB8445B69E2AA641DFD1159AA81E7ED)&gt;) -&gt; Swift.Array&lt;Palette3.Swatch&gt;"
+                  moduleName = "Palette3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456606470.180465"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "180"
+                  endingLineNumber = "180"
+                  offsetFromSymbolStart = "199">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Palette3/Palette.swift"
+            timestampString = "456648304.595366"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "284"
+            endingLineNumber = "284"
+            landmarkName = "findMaxPopulation()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3Tests.Palette.(findMaxPopulation in _B855D0651BF1C67DE0C25363FA2C5CD9) (Palette3Tests.Palette)() -&gt; Swift.Int"
+                  moduleName = "Palette3Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/Palette.swift"
+                  timestampString = "456562652.525154"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "229"
+                  endingLineNumber = "229"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3.Palette.(findMaxPopulation in _012A2D7EACF443CE700500F8BA930860) (Palette3.Palette)() -&gt; Swift.Int"
+                  moduleName = "Palette3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/Palette.swift"
+                  timestampString = "456562652.525327"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "229"
+                  endingLineNumber = "229"
+                  offsetFromSymbolStart = "15">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Palette3/Palette.swift"
+            timestampString = "456648304.595366"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "288"
+            endingLineNumber = "288"
+            landmarkName = "findMaxPopulation()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3Tests.Palette.(findMaxPopulation in _B855D0651BF1C67DE0C25363FA2C5CD9) (Palette3Tests.Palette)() -&gt; Swift.Int"
+                  moduleName = "Palette3Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/Palette.swift"
+                  timestampString = "456596512.839535"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "233"
+                  endingLineNumber = "233"
+                  offsetFromSymbolStart = "254">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3.Palette.(findMaxPopulation in _012A2D7EACF443CE700500F8BA930860) (Palette3.Palette)() -&gt; Swift.Int"
+                  moduleName = "Palette3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/Palette.swift"
+                  timestampString = "456596512.849455"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "233"
+                  endingLineNumber = "233"
+                  offsetFromSymbolStart = "254">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Palette3/Palette.swift"
+            timestampString = "456648304.595366"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "287"
+            endingLineNumber = "287"
+            landmarkName = "findMaxPopulation()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Palette3/ColorCutQuantizer.swift"
+            timestampString = "456645719.792364"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "191"
+            endingLineNumber = "191"
+            landmarkName = "generateAverageColors(_:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3Tests.ColorCutQuantizer.(generateAverageColors in _A3B566DBBB76666378EF66E62F085418) (Palette3Tests.ColorCutQuantizer)(Palette3Tests.PriorityQueue&lt;Palette3Tests.(Vbox in _A3B566DBBB76666378EF66E62F085418)&gt;) -&gt; Swift.Array&lt;Palette3Tests.Swatch&gt;"
+                  moduleName = "Palette3Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456602574.154265"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "176"
+                  endingLineNumber = "176"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3.ColorCutQuantizer.(generateAverageColors in _3DB8445B69E2AA641DFD1159AA81E7ED) (Palette3.ColorCutQuantizer)(Palette3.PriorityQueue&lt;Palette3.(Vbox in _3DB8445B69E2AA641DFD1159AA81E7ED)&gt;) -&gt; Swift.Array&lt;Palette3.Swatch&gt;"
+                  moduleName = "Palette3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456602574.157316"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "176"
+                  endingLineNumber = "176"
+                  offsetFromSymbolStart = "27">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Palette3/ColorCutQuantizer.swift"
+            timestampString = "456642663.808034"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "init(colorHistogram:maxColors:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Palette3/ColorCutQuantizer.swift"
+            timestampString = "456642663.808034"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "init(colorHistogram:maxColors:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3Tests.ColorCutQuantizer.init (Palette3Tests.ColorCutQuantizer.Type)(colorHistogram : Palette3Tests.ColorHistogram, maxColors : Swift.Int) -&gt; Palette3Tests.ColorCutQuantizer"
+                  moduleName = "Palette3Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456604499.22683"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "1794">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3.ColorCutQuantizer.init (Palette3.ColorCutQuantizer.Type)(colorHistogram : Palette3.ColorHistogram, maxColors : Swift.Int) -&gt; Palette3.ColorCutQuantizer"
+                  moduleName = "Palette3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456604499.234013"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "1794">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Palette3Tests/Palette3Tests.swift"
+            timestampString = "456605744.02599"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "testExample()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Palette3/ColorCutQuantizer.swift"
+            timestampString = "456642663.808034"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "init(colorHistogram:maxColors:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3Tests.ColorCutQuantizer.init (Palette3Tests.ColorCutQuantizer.Type)(colorHistogram : Palette3Tests.ColorHistogram, maxColors : Swift.Int) -&gt; Palette3Tests.ColorCutQuantizer"
+                  moduleName = "Palette3Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456605869.389848"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "1721">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3.ColorCutQuantizer.init (Palette3.ColorCutQuantizer.Type)(colorHistogram : Palette3.ColorHistogram, maxColors : Swift.Int) -&gt; Palette3.ColorCutQuantizer"
+                  moduleName = "Palette3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456605869.39284"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "1721">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Palette3/ColorCutQuantizer.swift"
+            timestampString = "456645719.792364"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "199"
+            endingLineNumber = "199"
+            landmarkName = "generateAverageColors(_:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3Tests.ColorCutQuantizer.(generateAverageColors in _A3B566DBBB76666378EF66E62F085418) (Palette3Tests.ColorCutQuantizer)(Palette3Tests.PriorityQueue&lt;Palette3Tests.(Vbox in _A3B566DBBB76666378EF66E62F085418)&gt;) -&gt; Swift.Array&lt;Palette3Tests.Swatch&gt;"
+                  moduleName = "Palette3Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456606252.983665"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "186"
+                  endingLineNumber = "186"
+                  offsetFromSymbolStart = "362">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3.ColorCutQuantizer.(generateAverageColors in _3DB8445B69E2AA641DFD1159AA81E7ED) (Palette3.ColorCutQuantizer)(Palette3.PriorityQueue&lt;Palette3.(Vbox in _3DB8445B69E2AA641DFD1159AA81E7ED)&gt;) -&gt; Swift.Array&lt;Palette3.Swatch&gt;"
+                  moduleName = "Palette3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456606252.98384"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "186"
+                  endingLineNumber = "186"
+                  offsetFromSymbolStart = "362">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Palette3/ColorCutQuantizer.swift"
+            timestampString = "456646295.715268"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "409"
+            endingLineNumber = "409"
+            landmarkName = "getAverageColor()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3Tests.(Vbox in _A3B566DBBB76666378EF66E62F085418).getAverageColor (Palette3Tests.(Vbox in _A3B566DBBB76666378EF66E62F085418))() -&gt; Palette3Tests.Swatch"
+                  moduleName = "Palette3Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456606470.177029"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "429"
+                  endingLineNumber = "429"
+                  offsetFromSymbolStart = "996">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3.(Vbox in _3DB8445B69E2AA641DFD1159AA81E7ED).getAverageColor (Palette3.(Vbox in _3DB8445B69E2AA641DFD1159AA81E7ED))() -&gt; Palette3.Swatch"
+                  moduleName = "Palette3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456606470.180658"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "429"
+                  endingLineNumber = "429"
+                  offsetFromSymbolStart = "996">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Palette3Tests/Palette3Tests.swift"
+            timestampString = "456630104.127087"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "imgTest(_:vib:vibDark:vibLight:mut:mutDark:mutLight:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Palette3/ColorCutQuantizer.swift"
+            timestampString = "456642663.808034"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "init(fromImage:maxColors:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3Tests.ColorCutQuantizer.init (Palette3Tests.ColorCutQuantizer.Type)(fromImage : ObjectiveC.UIImage, maxColors : Swift.Int) -&gt; Palette3Tests.ColorCutQuantizer"
+                  moduleName = "Palette3Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456620235.665197"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "332">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3.ColorCutQuantizer.init (Palette3.ColorCutQuantizer.Type)(fromImage : ObjectiveC.UIImage, maxColors : Swift.Int) -&gt; Palette3.ColorCutQuantizer"
+                  moduleName = "Palette3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456620235.665414"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "332">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Palette3/ColorCutQuantizer.swift"
+            timestampString = "456642663.808034"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "163"
+            endingLineNumber = "163"
+            landmarkName = "splitBoxes(_:maxSize:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3Tests.ColorCutQuantizer.(splitBoxes in _A3B566DBBB76666378EF66E62F085418) (Palette3Tests.ColorCutQuantizer)(inout Palette3Tests.PriorityQueue&lt;Palette3Tests.Vbox&gt;, maxSize : Swift.Int) -&gt; ()"
+                  moduleName = "Palette3Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456633450.467537"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "162"
+                  endingLineNumber = "162"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Palette3.ColorCutQuantizer.(splitBoxes in _3DB8445B69E2AA641DFD1159AA81E7ED) (Palette3.ColorCutQuantizer)(inout Palette3.PriorityQueue&lt;Palette3.Vbox&gt;, maxSize : Swift.Int) -&gt; ()"
+                  moduleName = "Palette3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mozilla/Palette3/Palette3/ColorCutQuantizer.swift"
+                  timestampString = "456633450.467754"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "162"
+                  endingLineNumber = "162"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
